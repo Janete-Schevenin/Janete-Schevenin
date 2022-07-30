@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou a Janete Freire Schevenin ✨
 
-<!--
-**Janete-Schevenin/Janete-Schevenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Cursando bacharelado em Análise e Desenvolvimento de Sistemas.
+- 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development%22%3Efront-end</a>.
+- 🌱 Estudando HTML5, CSS3 e Java.
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janettefreie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janete-freire/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias que tenho conhecimento:
+
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
+[![My Skills](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
+[![My Skills](https://skills.thijs.gg/icons?i=discord)](https://pt.wikipedia.org/wiki/Discord)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/GitHub)
+
