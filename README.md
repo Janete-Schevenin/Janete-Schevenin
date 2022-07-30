@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Janete Freire Schevenin ✨
 
 - 📖 Cursando bacharelado em Análise e Desenvolvimento de Sistemas.
-- 🔭 Entrando no mundo do <a href="https://en.wikipedia.org/wiki/Front-end_web_development%22%3Efront-end</a>.
+- 🔭 Entrando no mundo do front-end.
 - 🌱 Estudando HTML5, CSS3 e Java.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janettefreie@gmail.com)
